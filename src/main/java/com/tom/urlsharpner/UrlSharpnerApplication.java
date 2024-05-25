@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class UrlSharpnerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(UrlSharpnerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(UrlSharpnerApplication.class, args);
+    }
 
 }
